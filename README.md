@@ -12,7 +12,7 @@ The project introduces a data science and machine learning approach that positio
 ## Project Structure & Files
 The repository contains the data preprocessing, modeling pipeline, datasets, evaluation reports, and an interactive dashboard interface.
 
-As seen in the repository file layout (referenced via `image_64afd3.png`), the core assets include:
+The core assets include:
 * `graphs/`: Visualization outputs including Confusion Matrices and Audit Category distributions.
 * `promotion_audit_model.joblib`: The final hyperparameter-tuned and trained Random Forest Classification model object.
 * `Extended_Employee_Performance_and_Pr...`: The core processed dataset used for evaluation.
