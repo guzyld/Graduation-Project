@@ -36,6 +36,6 @@ Global model interpretability via **SHAP (SHapley Additive exPlanations)** valid
 
 ## Academic Documentation
 The comprehensive theoretical background, literature review, methodology, and extensive discussion are available in the official graduation report included in this repository.
-* **Author:** İrem YILDIZ (Güz)
+* **Author:** İrem Güz YILDIZ
 * **Supervisor:** Asst. Prof. Dr. Waqar BADSHAH
 * **Date:** June, 2026
